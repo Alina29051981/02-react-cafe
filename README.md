@@ -6,7 +6,7 @@ The app is built with React, TypeScript, and Vite, using CSS Modules for styling
 **Live Demo:**  
 [GitHub Pages Link](https://Alina29051981.github.io/goit-js-hw-10/) 
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/Alina29051981/goit-js-hw-10/ci.yml?branch=main)
+![Build Status](https://img.shields.io/github/actions/workflow/status/Alina29051981/goit-js-hw-10/deploy.yml?branch=main)
 ![Last Commit](https://img.shields.io/github/last-commit/Alina29051981/goit-js-hw-10)
 ![Repo Size](https://img.shields.io/github/repo-size/Alina29051981/goit-js-hw-10)
 
