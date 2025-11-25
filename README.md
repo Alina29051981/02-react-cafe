@@ -4,11 +4,11 @@ This is a feedback widget for a café, where users can leave reviews on the serv
 The app is built with React, TypeScript, and Vite, using CSS Modules for styling. Modern best practices, type safety, and clean architecture are applied throughout the project.
 
 **Live Demo:**  
-[GitHub Pages Link](https://Alina29051981.github.io/goit-js-hw-10/) 
+[GitHub Pages Link](https://Alina29051981.github.io/02-react-cafe/) 
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/Alina29051981/goit-js-hw-10/deploy.yml?branch=main)
-![Last Commit](https://img.shields.io/github/last-commit/Alina29051981/goit-js-hw-10)
-![Repo Size](https://img.shields.io/github/repo-size/Alina29051981/goit-js-hw-10)
+![Build Status](https://img.shields.io/github/actions/workflow/status/Alina29051981/02-react-cafe/deploy.yml?branch=main)
+![Last Commit](https://img.shields.io/github/last-commit/Alina29051981/02-react-cafe)
+![Repo Size](https://img.shields.io/github/repo-size/Alina29051981/02-react-cafe)
 
 ![React](https://img.shields.io/badge/Frontend-React-blueviolet)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-red)
@@ -16,8 +16,8 @@ The app is built with React, TypeScript, and Vite, using CSS Modules for styling
 ![HTML5](https://img.shields.io/badge/Markup-HTML5-orange)
 ![CSS3](https://img.shields.io/badge/Styles-CSS3-blue)
 
-![GitHub stars](https://img.shields.io/github/stars/Alina29051981/goit-js-hw-10?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Alina29051981/goit-js-hw-10)
+![GitHub stars](https://img.shields.io/github/stars/Alina29051981/02-react-cafe?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Alina29051981/02-react-cafe)
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%99%A5-red)
 
