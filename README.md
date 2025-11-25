@@ -10,7 +10,7 @@ Users can vote Good, Neutral, or Bad.
 Votes are stored centrally in the App component.
 Reset button appears only if there is at least one vote.
 
--Dynamic Statistics
+- Dynamic Statistics
 Shows votes per category, total votes, and positive rate.
 Statistics update automatically when users vote.
 
